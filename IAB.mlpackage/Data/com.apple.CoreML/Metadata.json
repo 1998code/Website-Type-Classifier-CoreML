@@ -1,0 +1,12 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "Get Website’s Type",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.app.tag" : "99.4",
+    "com.apple.createml.version" : "13.3.0",
+    "com.apple.coreml.model.preview.type" : "textClassifier",
+    "com.apple.createml.app.version" : "4.0"
+  },
+  "MLModelAuthorKey" : "Ming",
+  "MLModelLicenseKey" : "MIT"
+}
