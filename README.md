@@ -7,5 +7,8 @@ Get Website Type with Apple CoreML
 
 <img width="445" alt="CleanShot 2023-02-19 at 16 46 08@2x" src="https://user-images.githubusercontent.com/54872601/219938072-d465dfd1-6685-42ea-b575-512f83a247e6.png">
 
+![CleanShot 2023-02-19 at 16 47 59@2x](https://user-images.githubusercontent.com/54872601/219938177-c24954ff-2884-4fdb-b199-0e85088cabe6.png)
+mlpackage vs. mlmodel
+
 ## Data Source
 https://www.kaggle.com/datasets/bpmtips/websiteiabcategorization (CC BY 4.0)
